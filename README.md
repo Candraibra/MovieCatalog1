@@ -1,12 +1,14 @@
-Submission 1: Aplikasi Movie Catalogue
+## # ## # Submission 1: Aplikasi Movie Catalogue
 
--Menggunakan ListView untuk menampilkan daftar film dengan jumlah minimal 10 item.
+1. -Menggunakan Listview Untuk Menampilkan Daftar Film Dengan Jumlah Minimal 10 Item.
 
--Menampilkan poster dan informasi film pada halaman detail film.
+3. -Menampilkan Poster Dan Informasi Film Pada Halaman Detail Film.
 
--Menggunakan Parcelable sebagai interface dari obyek data yang akan dikirimkan antar Activity.
+5. -Menggunakan Parcelable Sebagai Interface Dari Obyek Data Yang Akan Dikirimkan Antar Activity.
 
--Menerapkan mekanisme Intent dengan baik dan benar.
+7. -Menerapkan Mekanisme Intent Dengan Baik Dan Benar.
 
--Masih menggunakan data pada folder drawable
+9. -Masih Menggunakan Data Pada Folder Drawable
+
+> Ini Merupakan Awal Dari Pembelajaran Saya Pda Aplikasi Android Native Dengan Menggunakan Listview Dan Memulai Dengan Menulis Baris Demi Baris Guna Memahami Alur Aplikasi
 
