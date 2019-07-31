@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MovieCatalog1</string>
+    <string name="judul">Avengers: Infinity War (2018)</string>
+    <string name="sinopsis">As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</string>
+
+    <string-array name="data_judul">
+        <item>Avengers: Infinity War (2018)</item>
+        <item>A Star Is Born (2018)</item>
+        <item>Bohemian Rhapsody (2018)</item>
+        <item>Venom (2018)</item>
+        <item>Bumblebee (2018)</item>
+        <item>Robin Hood (2018)</item>
+        <item>Aquaman (2018)</item>
+        <item>Bird Box (2018)</item>
+        <item>Once Upon a Deadpool (2018)</item>
+    </string-array>
+    <string-array name="data_sinopsis">
+        <item>Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.</item>
+        <item>Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karier Ally lepas landas, sisi pribadi dari hubungan mereka hancur, ketika Jack berjuang terus-menerus dengan setan-setan internalnya sendiri.</item>
+        <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock n roll Queen pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercury yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band bersama di tengah kesuksesan dan kelebihan.</item>
+        <item>Jurnalis investigasi Eddie Brock mencoba untuk kembali setelah skandal, tetapi secara tidak sengaja menjadi tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus mengandalkan kekuatan barunya untuk melindungi dunia dari organisasi bayangan yang mencari simbiosis mereka sendiri.</item>
+        <item>Dalam pelarian pada tahun 1987, Bumblebee menemukan tempat perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie menghidupkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa.</item>
+        <item>Seorang pejuang perang yang keras dan komandan Moornya melakukan pemberontakan yang berani melawan mahkota Inggris yang korup.</item>
+        <item>Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, saudara tiri manusia setengah manusia Orm dan pewaris sejati takhta.</item>
+        <item>Lima tahun setelah kehadiran tak terlihat yang tak menyenangkan membuat sebagian besar masyarakat bunuh diri, seorang yang selamat dan dua anaknya melakukan upaya putus asa untuk mencapai keselamatan.</item>
+        <item>Fred Savage yang diculik dipaksa untuk menahan Deadpool PG-13 rendition of Deadpool 2 sebagai cerita Princess Bride-esque yang penuh dengan keajaiban, keajaiban dan nol F.</item>
+    </string-array>
+    <array name="data_poster">
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_deadpool</item>
+    </array>
+</resources>
