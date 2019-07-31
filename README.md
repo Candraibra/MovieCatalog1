@@ -1,4 +1,4 @@
-## # ## # Submission 1: Aplikasi Movie Catalogue
+##  Submission 1: Aplikasi Movie Catalogue
 
 1. -Menggunakan Listview Untuk Menampilkan Daftar Film Dengan Jumlah Minimal 10 Item.
 
