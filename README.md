@@ -10,7 +10,7 @@
 
 9. Masih Menggunakan Data Pada Folder Drawable
 
-### For Load Item From string.xml Use This
+### For Load Item From strings.xml Use This
 ```java
     private void prepare() {
         dataJudul = getResources().getStringArray(R.array.data_judul);
