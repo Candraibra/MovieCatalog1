@@ -12,6 +12,9 @@
 
 ### For Load Item From strings.xml Use This
 ```java
+private String[] dataJudul
+private String[] dataSinopsis;
+private TypedArray dataPoster;
     private void prepare() {
         dataJudul = getResources().getStringArray(R.array.data_judul);
         dataSinopsis = getResources().getStringArray(R.array.data_sinopsis);
@@ -20,10 +23,6 @@
 ```
 ###  This For Add Item To Variable
 ```java
-private String[] dataJudul
-private String[] dataSinopsis;
-private TypedArray dataPoster;
-
  private void addItem() {
         movies = new ArrayList<>();
 
