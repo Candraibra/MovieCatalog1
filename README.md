@@ -10,7 +10,7 @@
 
 9. Masih Menggunakan Data Pada Folder Drawable
 
-### For Load Item From strings.xml Use This
+#### For Load Item From strings.xml Use This
 ```java
 private String[] dataJudul
 private String[] dataSinopsis;
@@ -22,7 +22,7 @@ private TypedArray dataPoster;
         dataPoster = getResources().obtainTypedArray(R.array.data_poster);
     }
 ```
-###  This For Add Item To Variable
+#### This For Add Item To Variable
 ```java
  private void addItem() {
         movies = new ArrayList<>();
@@ -38,13 +38,13 @@ private TypedArray dataPoster;
         adapter.setMovies(movies);
     }
 ```
-### To Set Adapter Use This
+#### To Set Adapter Use This
 ```java
 adapter = new MovieAdapter(this);
 listView = findViewById(R.id.lv_list_movie);
 listView.setAdapter(adapter);
 ```
-### And This For Action onItemClick
+#### And This For Action onItemClick
 ```java
  listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
